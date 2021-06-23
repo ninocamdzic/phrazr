@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include "base64.h"
+#include "resource.h"
 
 #define APP_NAME "Phrazr Get"
 #define APP_VER "0.1.6"
@@ -65,7 +66,6 @@ int main(int argc, char* argv[]) {
 		std::string key = argv[0];
 		size_t keyBeginIndex = key.rfind(".exe");
 		
-
 		if (keyBeginIndex > 0) {
 			key = key.substr(0, keyBeginIndex);
 			std::string enc;

@@ -1,5 +1,13 @@
 
+.vs/
+Release/
+x64/
 Phrazr/Phrazr.vcxproj.user
 Phrazrg/Phrazrg.aps
 Phrazr/Phrazr.aps
 Phrazrg/Phrazrg.vcxproj.user
+Phrazr/Release/
+Phrazr/x64/
+Phrazrg/Release/
+Phrazrg/x64/
+
