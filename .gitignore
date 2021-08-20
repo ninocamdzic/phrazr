@@ -2,6 +2,7 @@
 .vs/
 Release/
 x64/
+Debug/
 Phrazr/Phrazr.vcxproj.user
 Phrazrg/Phrazrg.aps
 Phrazr/Phrazr.aps
@@ -10,4 +11,6 @@ Phrazr/Release/
 Phrazr/x64/
 Phrazrg/Release/
 Phrazrg/x64/
+Phrazr/Debug
+Phrazrg/Debug
 
