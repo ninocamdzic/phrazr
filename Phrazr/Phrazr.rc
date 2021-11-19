@@ -82,7 +82,7 @@ BEGIN
             VALUE "FileDescription", "Phrazr"
             VALUE "FileVersion", "0.0.1.6"
             VALUE "InternalName", "Phrazr.exe"
-            VALUE "LegalCopyright", "Copyright (C) 2017 - 2021 Nino Camdzic"
+            VALUE "LegalCopyright", "Copyright (C) 2021 Nino Camdzic"
             VALUE "OriginalFilename", "Phrazr.exe"
             VALUE "ProductName", "Phrazr"
             VALUE "ProductVersion", "0.0.1.6"
